@@ -1,0 +1,12 @@
+name: jackson_network
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=3.0.9
+  - matplotlib=3.3.4
+  - numpy=1.19.2
+  - pandas=1.2.3
+  - pip=21.0.1
+  - python=3.8.8
+  - scipy=1.6.1
+  - seaborn=0.10.0
